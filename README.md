@@ -1,6 +1,6 @@
 # Advent of Code 2024
 
-Welcome to my Advent of Code 2024 repository! This is where I'll be documenting my journey through the coding challenges of this year's event.
+Welcome to my Advent of Code 2024 repository! This is where I'll be documenting my journey through the coding challenges of this year's event. (yes im starting late (01/01/2025))
 
 ## About Advent of Code
 
