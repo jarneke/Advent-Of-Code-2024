@@ -14,3 +14,7 @@ const adjacentValuesDiffer: boolean = report.every(
 ```
 
 so if values were `<= 3` it would already return true and not check if it was `>= 1`
+
+# Part Two
+
+logic was easy, didnt really struggle here
